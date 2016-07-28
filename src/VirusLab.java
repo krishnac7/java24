@@ -8,6 +8,7 @@ public class VirusLab{
                 
             }
             System.out.println("There are "+Virus.getVirusCount()+" viruses.");
+            System.out.println("lol a new repo");
         
     }
     }
